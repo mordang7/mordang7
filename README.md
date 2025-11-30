@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="NBPro_MordanG7_ProfilePic_V2.png" width="100%" alt="MordanG7 Banner" />
+</div>
+<br/>
+
+<div align="center">
 
   <h1>👋 Hey, I'm MordanG7!</h1>
 
@@ -45,6 +50,34 @@
   <img src="https://img.shields.io/badge/Design_Leadership-000000?style=for-the-badge&logo=design&logoColor=white" alt="Design Leadership" />
   <img src="https://img.shields.io/badge/Concept_Development-673AB7?style=for-the-badge&logo=adobexd&logoColor=white" alt="Concept Development" />
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| **[LlamaForge](https://github.com/mordang7/LlamaForge)** | **[OmniLink](https://github.com/mordang7/OmniLink)** |
+| :---: | :---: |
+| <img src="https://img.shields.io/github/stars/mordang7/LlamaForge?style=social" alt="Stars" /> <img src="https://img.shields.io/github/forks/mordang7/LlamaForge?style=social" alt="Forks" /> | <img src="https://img.shields.io/github/stars/mordang7/OmniLink?style=social" alt="Stars" /> <img src="https://img.shields.io/github/forks/mordang7/OmniLink?style=social" alt="Forks" /> |
+| *The Ultimate Command Center for Local LLMs.* | *Bash script to update AI models for OpenCode.* |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mordang7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="mordang7" />
+  </a>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mordang7&theme=tokyonight&hide_border=true" alt="MordanG7's Streak" />
+</div>
+
+---
 
 <div align="center">
   <sub><em>"Optimizing code, frames, and reality—one cycle at a time. 🚀" — MordanG7</em></sub>
