@@ -1,21 +1,17 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mordang7/mordang7/main/geekj_profile_header.png" alt="GeekJ Header" width="100%" />
-</div>
 
-<br />
-
-<div align="center">
-
-  <h1>👋 Hey, I'm GeekJ!</h1>
+  <h1>👋 Hey, I'm MordanG7!</h1>
 
   **Creative Director | Tech Enthusiast | Optimization Specialist**
 
-  I make tech, tutorials, and gaming simpler and better. My mission is to help you squeeze every last frame out of your setup and master your digital environment.
+  As a contributor to international media programs, I am passionate about exploring and sharing cultural insights with a global audience. With a strong foundation as a designer and marketer, I bring creativity and strategic thinking to every project. Currently a freelance consultant, I thrive on creating innovative solutions that bridge the gap between artistic vision and market success.
 
-  [![YouTube](https://img.shields.io/badge/YouTube-GeekJ-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@GeekJohn)
+  I also serve as a guest lecturer, inspiring the next generation with practical knowledge and creative insight. My mission is to help you squeeze every last frame out of your setup and master your digital environment.
+
+  [![YouTube](https://img.shields.io/badge/YouTube-MordanG7-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@GeekJohn)
   [![Twitter](https://img.shields.io/badge/Twitter-@JohnnyTsag-blue?style=for-the-badge&logo=twitter)](https://x.com/JohnnyTsag)
   [![Twitch](https://img.shields.io/badge/Twitch-geeks101-purple?style=for-the-badge&logo=twitch)](https://twitch.tv/geeks101)
-  [![Rumble](https://img.shields.io/badge/Rumble-GeekJ-orange?style=for-the-badge&logo=rumble)](https://rumble.com/user/GeekJ)
+  [![Rumble](https://img.shields.io/badge/Rumble-MordanG7-orange?style=for-the-badge&logo=rumble)](https://rumble.com/user/GeekJ)
 
 </div>
 
@@ -38,6 +34,13 @@
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  
+  <br/>
+  
+  <!-- Professional Skills -->
+  <img src="https://img.shields.io/badge/Marketing-FF5722?style=for-the-badge&logo=google-marketing-platform&logoColor=white" alt="Marketing" />
+  <img src="https://img.shields.io/badge/Design_Leadership-000000?style=for-the-badge&logo=design&logoColor=white" alt="Design Leadership" />
+  <img src="https://img.shields.io/badge/Concept_Development-673AB7?style=for-the-badge&logo=adobexd&logoColor=white" alt="Concept Development" />
 </div>
 
 ---
@@ -66,5 +69,5 @@
 ---
 
 <div align="center">
-  <sub><em>"Judge all content honestly and without bias." — GeekJ</em></sub>
+  <sub><em>"Judge all content honestly and without bias." — MordanG7</em></sub>
 </div>
