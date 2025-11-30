@@ -11,7 +11,7 @@
   [![YouTube](https://img.shields.io/badge/YouTube-GeekJ-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@GeekJohn)
   [![Twitter](https://img.shields.io/badge/Twitter-@JohnnyTsag-blue?style=for-the-badge&logo=twitter)](https://x.com/JohnnyTsag)
   [![Twitch](https://img.shields.io/badge/Twitch-geeks101-purple?style=for-the-badge&logo=twitch)](https://twitch.tv/geeks101)
-  [![Rumble](https://img.shields.io/badge/Rumble-GeekJ-orange?style=for-the-badge&logo=rumble)](https://rumble.com/user/GeekJ)
+  [![Rumble](https://img.shields.io/badge/Rumble-GeekJ-orange?style=for-the-badge&logo=rumble)](https://rumble.com/c/GeekJ)
 
 </div>
 
