@@ -8,10 +8,10 @@
 
   I also serve as a guest lecturer, inspiring the next generation with practical knowledge and creative insight. My mission is to help you squeeze every last frame out of your setup and master your digital environment.
 
-  [![YouTube](https://img.shields.io/badge/YouTube-MordanG7-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@GeekJohn)
+  [![YouTube](https://img.shields.io/badge/YouTube-GeekJ-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@GeekJohn)
   [![Twitter](https://img.shields.io/badge/Twitter-@JohnnyTsag-blue?style=for-the-badge&logo=twitter)](https://x.com/JohnnyTsag)
   [![Twitch](https://img.shields.io/badge/Twitch-geeks101-purple?style=for-the-badge&logo=twitch)](https://twitch.tv/geeks101)
-  [![Rumble](https://img.shields.io/badge/Rumble-MordanG7-orange?style=for-the-badge&logo=rumble)](https://rumble.com/user/GeekJ)
+  [![Rumble](https://img.shields.io/badge/Rumble-GeekJ-orange?style=for-the-badge&logo=rumble)](https://rumble.com/user/GeekJ)
 
 </div>
 
@@ -61,13 +61,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mordang7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GeekJ's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mordang7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MordanG7's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mordang7&theme=tokyonight&hide_border=true" alt="GeekJ's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mordang7&theme=tokyonight&hide_border=true" alt="MordanG7's Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <sub><em>"Judge all content honestly and without bias." — MordanG7</em></sub>
+  <sub><em>"Optimizing code, frames, and reality—one cycle at a time. 🚀" — MordanG7</em></sub>
 </div>
