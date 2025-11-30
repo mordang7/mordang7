@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Davinci_Resolve-333333?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="Davinci Resolve" />
   
   <!-- Tech -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -32,6 +33,7 @@
   
   <!-- Optimization -->
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
+  <img src="https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   
@@ -39,6 +41,7 @@
   
   <!-- Professional Skills -->
   <img src="https://img.shields.io/badge/Marketing-FF5722?style=for-the-badge&logo=google-marketing-platform&logoColor=white" alt="Marketing" />
+  <img src="https://img.shields.io/badge/UX%2FUI-FF61F6?style=for-the-badge&logo=figma&logoColor=white" alt="UX/UI" />
   <img src="https://img.shields.io/badge/Design_Leadership-000000?style=for-the-badge&logo=design&logoColor=white" alt="Design Leadership" />
   <img src="https://img.shields.io/badge/Concept_Development-673AB7?style=for-the-badge&logo=adobexd&logoColor=white" alt="Concept Development" />
 </div>
