@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  # 👋 Hey, I'm GeekJ!
+  <h1>👋 Hey, I'm GeekJ!</h1>
 
   **Creative Director | Tech Enthusiast | Optimization Specialist**
 
