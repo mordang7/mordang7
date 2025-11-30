@@ -46,20 +46,6 @@
   <img src="https://img.shields.io/badge/Concept_Development-673AB7?style=for-the-badge&logo=adobexd&logoColor=white" alt="Concept Development" />
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| **[LlamaForge](https://github.com/mordang7/LlamaForge)** | **[OmniLink](https://github.com/mordang7/OmniLink)** |
-| :---: | :---: |
-| <img src="https://img.shields.io/github/stars/mordang7/LlamaForge?style=social" alt="Stars" /> <img src="https://img.shields.io/github/forks/mordang7/LlamaForge?style=social" alt="Forks" /> | <img src="https://img.shields.io/github/stars/mordang7/OmniLink?style=social" alt="Stars" /> <img src="https://img.shields.io/github/forks/mordang7/OmniLink?style=social" alt="Forks" /> |
-| *The Ultimate Command Center for Local LLMs.* | *Bash script to update AI models for OpenCode.* |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
-</div>
-
 <div align="center">
   <sub><em>"Optimizing code, frames, and reality—one cycle at a time. 🚀" — MordanG7</em></sub>
 </div>
