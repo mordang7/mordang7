@@ -54,8 +54,9 @@
 
 | **[LlamaForge](https://github.com/mordang7/LlamaForge)** | **[OmniLink](https://github.com/mordang7/OmniLink)** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=mordang7&repo=LlamaForge&theme=tokyonight&show_owner=true" alt="LlamaForge" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=mordang7&repo=OmniLink&theme=tokyonight&show_owner=true" alt="OmniLink" /> |
+| <img src="https://img.shields.io/github/stars/mordang7/LlamaForge?style=social" alt="Stars" /> <img src="https://img.shields.io/github/forks/mordang7/LlamaForge?style=social" alt="Forks" /> | <img src="https://img.shields.io/github/stars/mordang7/OmniLink?style=social" alt="Stars" /> <img src="https://img.shields.io/github/forks/mordang7/OmniLink?style=social" alt="Forks" /> |
 | *The Ultimate Command Center for Local LLMs.* | *Bash script to update AI models for OpenCode.* |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 </div>
 
@@ -64,7 +65,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mordang7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MordanG7's GitHub Stats" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mordang7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="mordang7" />
+  </a>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mordang7&theme=tokyonight&hide_border=true" alt="MordanG7's Streak" />
 </div>
