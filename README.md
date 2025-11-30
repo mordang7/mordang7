@@ -60,20 +60,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mordang7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="mordang7" />
-  </a>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mordang7&theme=tokyonight&hide_border=true" alt="MordanG7's Streak" />
-</div>
-
----
-
 <div align="center">
   <sub><em>"Optimizing code, frames, and reality—one cycle at a time. 🚀" — MordanG7</em></sub>
 </div>
