@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="geekj_profile_header.png" alt="GeekJ Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/mordang7/mordang7/main/geekj_profile_header.png" alt="GeekJ Header" width="100%" />
 </div>
 
 <br />
