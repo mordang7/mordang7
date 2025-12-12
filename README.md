@@ -70,11 +70,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mordang7/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mordang7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=mordang7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
