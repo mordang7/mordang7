@@ -70,9 +70,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mordang7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="MordanG7's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mordang7&show_icons=true&theme=tokyonight&hide_border=true" alt="MordanG7's GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=mordang7&theme=tokyonight&hide_border=true&background=00000000" alt="MordanG7's Streak" />
+  <img src="https://streak-stats.demolab.com?user=mordang7&theme=tokyonight&hide_border=true" alt="MordanG7's Streak" />
 </div>
 
 ---
