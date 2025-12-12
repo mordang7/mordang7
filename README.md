@@ -70,9 +70,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=mordang7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mordang7&theme=tokyonight&hide_border=true&date_updated=20251212)](https://git.io/streak-stats)
+
 </div>
 
 ---
