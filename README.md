@@ -67,15 +67,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mordang7&theme=tokyonight&hide_border=true&date_updated=20251212)](https://git.io/streak-stats)
-
-</div>
-
----
 
 <div align="center">
   <sub><em>"Optimizing code, frames, and reality—one cycle at a time. 🚀" — MordanG7</em></sub>
