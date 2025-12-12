@@ -57,11 +57,11 @@
 
 <div align="center">
 
-| **[LlamaForge](https://github.com/mordang7/LlamaForge)** | **[OmniLink](https://github.com/mordang7/OmniLink)** |
-| :---: | :---: |
-| <img src="https://img.shields.io/github/stars/mordang7/LlamaForge?style=social" alt="Stars" /> <img src="https://img.shields.io/github/forks/mordang7/LlamaForge?style=social" alt="Forks" /> | <img src="https://img.shields.io/github/stars/mordang7/OmniLink?style=social" alt="Stars" /> <img src="https://img.shields.io/github/forks/mordang7/OmniLink?style=social" alt="Forks" /> |
-| *The Ultimate Command Center for Local LLMs.* | *Bash script to update AI models for OpenCode.* |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[LlamaForge](https://github.com/mordang7/LlamaForge)** | **[OmniLink](https://github.com/mordang7/OmniLink)** | **[ContextKeep](https://github.com/mordang7/ContextKeep)** |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/github/stars/mordang7/LlamaForge?style=social" alt="Stars" /> <img src="https://img.shields.io/github/forks/mordang7/LlamaForge?style=social" alt="Forks" /> | <img src="https://img.shields.io/github/stars/mordang7/OmniLink?style=social" alt="Stars" /> <img src="https://img.shields.io/github/forks/mordang7/OmniLink?style=social" alt="Forks" /> | <img src="https://img.shields.io/github/stars/mordang7/ContextKeep?style=social" alt="Stars" /> <img src="https://img.shields.io/github/forks/mordang7/ContextKeep?style=social" alt="Forks" /> |
+| *The Ultimate Command Center for Local LLMs.* | *Bash script to update AI models for OpenCode.* | *Infinite Long-Term Memory for AI Agents.* |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 </div>
 
@@ -70,11 +70,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mordang7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="mordang7" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mordang7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="MordanG7's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mordang7&theme=tokyonight&hide_border=true" alt="MordanG7's Streak" />
+  <img src="https://streak-stats.demolab.com?user=mordang7&theme=tokyonight&hide_border=true&background=00000000" alt="MordanG7's Streak" />
 </div>
 
 ---
